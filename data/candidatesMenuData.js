@@ -20,18 +20,4 @@ module.exports = [
     routePath: "/resumebuilder",
     active: "",
   },
-  {
-    id: 3,
-    name: "Logout",
-    icon: "la-sign-out",
-    routePath: "/login",
-    active: "",
-  },
-  {
-    id: 4,
-    name: "Delete Profile",
-    icon: "la-trash",
-    routePath: "/",
-    active: "",
-  },
 ];

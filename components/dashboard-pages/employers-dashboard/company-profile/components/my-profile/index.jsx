@@ -1,16 +1,16 @@
-import FormInfoBox from "./FormInfoBox";
-import LogoCoverUploader from "./LogoCoverUploader";
+// import FormInfoBox from "./FormInfoBox";
+// import LogoCoverUploader from "./LogoCoverUploader";
 
-const index = () => {
-    return (
-        <div className="widget-content">
-            <LogoCoverUploader />
-            {/* End logo and cover photo components */}
+// const index = () => {
+//     return (
+//         <div className="widget-content">
+//             <LogoCoverUploader />
+//             {/* End logo and cover photo components */}
 
-            <FormInfoBox />
-            {/* compnay info box */}
-        </div>
-    );
-};
+//             <FormInfoBox />
+//             {/* compnay info box */}
+//         </div>
+//     );
+// };
 
-export default index;
+// export default index;
